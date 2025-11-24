@@ -21,8 +21,8 @@ Check out some of my projects here on GitHub!
 - Python scripts and small projects  
 
 ## 📫 How to reach me
-- Email: [mei.romney@gmail.com]  
-- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/meiromney/)(https://www.linkedin.com)  
+- Email: mei.romney@gmail.com 
+- LinkedIn: (https://www.linkedin.com/in/meiromney/) 
 
 ## ⚡ Fun Fact
 I enjoy turning complex problems into simple, elegant solutions — and yes, I write code that even my future self won’t understand sometimes 😅
