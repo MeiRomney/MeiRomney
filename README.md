@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Mei Romney 👋
 
-<!--
-**MeiRomney/MeiRomney** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Computer Science student** at the **University of Nyíregyháza** with a passion for web development and software engineering. I love building projects that make life easier and exploring new technologies.  
 
-Here are some ideas to get you started:
+## 💻 Skills
+- **Languages:** C, Java, Python, HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React, Node.js  
+- **Other:** Git, GitHub, Responsive Web Design, Problem Solving  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Python for backend and data projects  
+- Full Stack Development (React + Node.js + Databases)  
+- Advanced React patterns   
+
+## 🔭 Projects
+Check out some of my projects here on GitHub!  
+- Portfolio website
+- Front-end websites
+- Web apps using React & Node.js  
+- Algorithms and data structure exercises in C & Java  
+- Python scripts and small projects  
+
+## 📫 How to reach me
+- Email: [mei.romney@gmail.com]  
+- LinkedIn: [[Your LinkedIn Profile]](https://www.linkedin.com/in/meiromney/)(https://www.linkedin.com)  
+
+## ⚡ Fun Fact
+I enjoy turning complex problems into simple, elegant solutions — and yes, I write code that even my future self won’t understand sometimes 😅
