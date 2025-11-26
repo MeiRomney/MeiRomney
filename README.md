@@ -11,10 +11,10 @@ I enjoy building useful apps, solving complex problems, and exploring new techno
 C • Java • Python • HTML • CSS • JavaScript  
 
 **Frameworks & Libraries:**  
-React • Node.js  
+React • Node.js • Spring Boot  
 
 **Tools & Concepts:**  
-Git • GitHub • Responsive Web Design • Problem Solving
+Git • GitHub • Docker • Responsive Web Design • Problem Solving
 
 ---
 
