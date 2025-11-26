@@ -26,3 +26,7 @@ Check out some of my projects here on GitHub!
 
 ## ⚡ Fun Fact
 I enjoy turning complex problems into simple, elegant solutions — and yes, I write code that even my future self won’t understand sometimes 😅
+
+[![MeiRomney's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MeiRomney&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/MeiRomney/github-readme-stats#gh-dark-mode-only)
+[![MeiRomney's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=MeiRomney&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/MeiRomney/github-readme-stats#gh-light-mode-only)
+
