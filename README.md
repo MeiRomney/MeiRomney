@@ -43,11 +43,9 @@ Here are some things I've been working on:
 
 ## 📊 GitHub Stats
 
-<!-- GitHub Stats -->
-![MeiRomney's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeiRomney&show_icons=true&theme=tokyonight)
+![MeiRomney's GitHub Stats](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=MeiRomney&show_icons=true&theme=tokyonight)
 
-<!-- Top Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeiRomney&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=MeiRomney&layout=compact&theme=tokyonight)
 
 ---
 
