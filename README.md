@@ -3,6 +3,10 @@
 I'm a **Computer Science student** at the **University of Nyíregyháza**, passionate about web development and software engineering.  
 I enjoy building useful apps, solving complex problems, and exploring new technologies.
 
+**Portfolio:** [meiromney.vercel.app](https://meiromney.vercel.app)
+
+**Resume:** [Resume's Google Drive link](https://drive.google.com/file/d/1W-Ld2daXK7UyR-eU4qa9SoddMx-0-8-2/view?usp=drive_link)
+
 ---
 
 ## 💻 Tech Stack
@@ -36,7 +40,7 @@ Here are some things I've been working on:
 ---
 
 ## 📫 Contact Me
-- **Email:** mei.romney@gmail.com  
+- **Email:** mei.romney987@gmail.com  
 - **LinkedIn:** https://www.linkedin.com/in/meiromney/
 
 ---
